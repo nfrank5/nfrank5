@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Frank.
-- 👀 I’m interested in Full Stack Development and Test Automation.
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Full Stack with Ruby On Rails at https://www.theodinproject.com/.
 - 📫 You can reach me at: nfrankenfeld@gmail.com.
 
